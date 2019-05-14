@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["../main.js"],"sourcesContent":["export default function span() {\r\n\treturn <span>text</span>;\r\n}\r\n"],"names":["span"],"mappings":";;;;;;;;;;;GAAe,SAASA,IAAT,GAAgB;GAC9B;GACA;;;;;;"}
