@@ -12,6 +12,7 @@ module.exports = {
 		{
 			dir: './bundles/',
 			format: 'system',
+			name: 'bundle',
 			globals: {
 				'inferno': 'Inferno'
 			},

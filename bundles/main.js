@@ -1,4 +1,4 @@
-System.register(['inferno'], function (exports, module) {
+System.register('bundle', ['inferno'], function (exports, module) {
 	'use strict';
 	var createVNode;
 	return {
